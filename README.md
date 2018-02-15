@@ -1,0 +1,2 @@
+# End-user-Chat-system-with-chathub
+This repository is for a Java application which is used to do chat between end-users via Server. Messages between end-users are encrypted. Authentication and integrity of a package is maintained. In addition, handshake protocol has been used and negotiation is done via built-in library provided by Java.security.Security and Java.security.Provider. Unit and Integration testing has also been done.
